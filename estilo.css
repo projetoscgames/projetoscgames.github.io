@@ -19,6 +19,11 @@
   text-transform: uppercase;
 }
 
+#youtube0 {
+  width: 100%;
+  height: 315px;
+}
+
 .icone-turma {
   width: 80px;
   height: 80px;
@@ -39,6 +44,11 @@ p {
 
 a.btn:hover {
   color: white;
+}
+
+.gj-frame {
+  width: 100%;
+  height: 245px;
 }
 
 #titulo-contato {
